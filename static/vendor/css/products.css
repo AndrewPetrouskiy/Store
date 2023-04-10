@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(304deg, #616060 0%, #CDCACA 100%);
+    padding-top: 56px;
+}
+
+.list-group-item {
+    background: #38383f;
+    color: white;
+}
+
+a {
+        color: white;
+}
+
+.card {
+    background: #38383f;
+
+}
+
+a:hover {
+    text-decoration: none;
+}
+
